@@ -15,8 +15,8 @@ developer: Retro Mike
 website: https://www.postgresql.org/
 submitter: Retro Mike
 submission: https://github.com/trilogic/umbrel-store/pulls
-repo: https://github.com/TheRetroMike/retromike-umbrel-app-store
-support: https://github.com/TheRetroMike/retromike-umbrel-app-store
+repo: https://github.com/c9kbsggmy6-sys/test-umbrel-app-store
+support: https://github.com/c9kbsggmy6-sys/test-umbrel-app-store
 
 gallery:
   - https://raw.githubusercontent.com/TriLogic/umbrel-store/refs/heads/main/umbrel-store-postgre-pgadmin/icon.svg
