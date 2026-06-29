@@ -1,6 +1,6 @@
 manifestVersion: 1
 
-id: retro-mike-postgres
+id: c9kb-umbrel-apps-postgres
 name: PostgreSQL + pgAdmin
 tagline: PostgreSQL with a browser-based admin UI
 category: Databases
