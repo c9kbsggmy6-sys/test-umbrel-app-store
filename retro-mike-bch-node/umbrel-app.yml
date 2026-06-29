@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: retro-mike-bch-node
+id: c9kb-umbrel-apps-bch-node
 name: Bitcoin Cash (BCH) Node
 tagline: Bitcoin Cash Node. This is a general node app for Bitcoin Cash and can be used to in conjunction with mining pool software to solo mine, or just be ran standalone to help contribute to the Bitcoin Cash network.
 icon: https://bitcoincash.org/img/green/bitcoin-cash-circle.svg
@@ -17,8 +17,8 @@ developer: Retro Mike
 website: http://retromiketech.com
 submitter: Retro Mike
 submission: https://github.com/TheRetroMike/bitcoin-cash
-repo: https://github.com/TheRetroMike/bitcoin-cash
-support: https://github.com/TheRetroMike/bitcoin-cash
+repo: https://github.com/test-umbrel-app-store/retro-mike-bitcoin-cash
+support: https://github.com/test-umbrel-app-store/retro-mike-bitcoin-cash
 gallery:
   - https://bitcoincash.org/img/green/bitcoin-cash-circle.svg
 releaseNotes: >-
