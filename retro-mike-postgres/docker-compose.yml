@@ -19,7 +19,7 @@ services:
       POSTGRES_DB: umbrel
       POSTGRES_USER: umbrel
       POSTGRES_PASSWORD: P@ssw0rd
-      TZ: America/Chicago
+      TZ: America/Denver
     volumes:
       - ${APP_DATA_DIR}/pgadmin:/var/lib/pgadmin
       - ${APP_DATA_DIR}/pgdata:/var/lib/postgresql/data
@@ -69,7 +69,7 @@ services:
       PGADMIN_CONFIG_PROXY_X_PORT_COUNT: "1"
       PGADMIN_CONFIG_PROXY_X_PREFIX_COUNT: "0"
 
-      TZ: America/Chicago
+      TZ: America/Denver
     volumes:
       - ${APP_DATA_DIR}/pgadmin:/var/lib/pgadmin
       - ${APP_DATA_DIR}/servers.json:/pgadmin4/servers.json:ro
